@@ -1,6 +1,8 @@
 # billard-gl-appimage
 Unofficial. 3D billiards game, play a game of 8-ball or 9-ball.
 
+<img width="790" height="673" alt="Istantanea_2026-01-08_01-05-21" src="https://github.com/user-attachments/assets/0091eb55-92f2-4044-982d-f695b6b8f587" />
+
 ------------------------------------------------------------------------
 
 ## Install it with ease
